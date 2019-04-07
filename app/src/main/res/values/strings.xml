@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LatihanRetrofit</string>
+    <string name="api_key">33593c3edb2d098667002d3ff4c64f5f</string>
+    <string name="base_path_poster">https://image.tmdb.org/t/p/w500</string>
+</resources>
